@@ -9,7 +9,7 @@ import { ISearchEngineProps, ThemeType } from '../src/types'
 export const TITLE = '发现导航 - 精选实用导航网站'
 
 // 默认主题: light | sim
-export const THEME: ThemeType = 'light'
+export const THEME: ThemeType = 'sim'
 
 // 海报图, 只支持 sim 主题
 export const POSTER_IMAGE = 'assets/img/wallpaper.jpg'
